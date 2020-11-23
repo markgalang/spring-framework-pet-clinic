@@ -2,10 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<scm>
-		<connection>https://github.com/markgalang/spring-framework-pet-clinic.git</connection>
 		<developerConnection>scm:git:[https://github.com/markgalang/spring-framework-pet-clinic.git]</developerConnection>
-		<url>https://github.com/markgalang/spring-framework-pet-clinic.git</url>
-		<tag>HEAD</tag>
+		<tag>pet-clinic-0.0.1</tag>
 	</scm>
 
 	<modelVersion>4.0.0</modelVersion>
