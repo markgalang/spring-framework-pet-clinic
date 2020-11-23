@@ -3,7 +3,6 @@
 
 	<scm>
 		<connection>https://github.com/markgalang/spring-framework-pet-clinic.git</connection>
-		<developerConnection>scm:git:[https://github.com/markgalang/spring-framework-pet-clinic.git]</developerConnection>
 		<url>https://github.com/markgalang/spring-framework-pet-clinic.git</url>
 		<tag>pet-clinic-0.0.1</tag>
 	</scm>
